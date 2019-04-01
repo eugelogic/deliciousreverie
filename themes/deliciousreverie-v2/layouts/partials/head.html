@@ -13,7 +13,6 @@
   <style>
     {{ readFile "themes/deliciousreverie-v2/static/css/deliciousreverie.min.css" | safeCSS }}
   </style>
-  {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
   {{ .Hugo.Generator }}
 </head>
 <body>
