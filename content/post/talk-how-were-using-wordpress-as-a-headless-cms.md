@@ -31,7 +31,7 @@ UPDATE: The talk was released in May 2019 on Wordpress.tv
 <iframe width="560" height="315" src="https://videopress.com/embed/XXuKwsPC" frameborder="0" allowfullscreen></iframe>
 <script src="https://videopress.com/videopress-iframe.js"></script>
 
-There's a [full writeup on the Indigo Tree website](https://indigotree.co.uk/how-use-wordpress-headless-cms/). I'll update this post with the video on WordPress TV when it's uploaded there.
+There's a [full writeup on the Indigo Tree website](https://indigotree.co.uk/how-use-wordpress-headless-cms/).
 
 My talk covered these main points:
 
