@@ -48,6 +48,7 @@ module.exports = {
     `gatsby-transformer-javascript-frontmatter`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-preact`,
     `gatsby-plugin-webpack-size`,
     {
       resolve: `gatsby-plugin-react-svg`,
